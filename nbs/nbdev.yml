@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "maven-course"
+  site-url: "https://deven367.github.io/maven-course"
+  description: "nbs and other notes from the Maven LLM course"
+  repo-branch: master
+  repo-url: "https://github.com/deven367/maven-course"
