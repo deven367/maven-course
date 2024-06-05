@@ -20,3 +20,16 @@ Fill me in please! Don’t forget code examples:
 ```
 
     2
+
+## Credits
+
+- [ ] HuggingFace
+- [ ] Replicate
+- [ ] Modal Labs
+- [x] OpenAI (Expires Aug 31st 2024)
+- [ ] BrainTrust
+- [ ] Fireworks.ai
+- [ ] LangSmith
+- [ ] OpenPipe
+- [x] Jarvis Labs
+- [ ] Predibase
