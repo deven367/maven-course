@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "maven-course",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "maven-course"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "maven-course",
+    "section": "Install",
+    "text": "Install\npip install maven_course",
+    "crumbs": [
+      "maven-course"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "maven-course",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "maven-course"
+    ]
+  },
+  {
+    "objectID": "index.html#credits",
+    "href": "index.html#credits",
+    "title": "maven-course",
+    "section": "Credits",
+    "text": "Credits\n\nHuggingFace\nReplicate\nModal Labs\nOpenAI (Expires Aug 31st 2024)\nBrainTrust\nFireworks.ai\nLangSmith\nOpenPipe\nJarvis Labs\nPredibase",
+    "crumbs": [
+      "maven-course"
+    ]
+  },
+  {
+    "objectID": "ft2.html",
+    "href": "ft2.html",
+    "title": "Fine-Tuning Workshop 2",
+    "section": "",
+    "text": "Full fine-tune vs LoRA\n\nAt this point of time, full fine-tune is rarely used. LoRA is preferred as it significantly reduces the number of parameters to be trained.\n\n\n\n\n\n\n\n\nResearch thought\n\n\n\nCan we have an adapter and we can somehow find ways to evaluate that adapter from a perspective of free recall?",
+    "crumbs": [
+      "Fine-Tuning Workshop 2"
+    ]
+  },
+  {
+    "objectID": "ft2.html#notes",
+    "href": "ft2.html#notes",
+    "title": "Fine-Tuning Workshop 2",
+    "section": "",
+    "text": "Full fine-tune vs LoRA\n\nAt this point of time, full fine-tune is rarely used. LoRA is preferred as it significantly reduces the number of parameters to be trained.\n\n\n\n\n\n\n\n\nResearch thought\n\n\n\nCan we have an adapter and we can somehow find ways to evaluate that adapter from a perspective of free recall?",
+    "crumbs": [
+      "Fine-Tuning Workshop 2"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
